@@ -1,0 +1,427 @@
+[
+    {
+      "first_name": "Габил",
+      "last_name": "Нурахмедов",
+      "birth_date": "1992-06-24",
+      "position": "Защитник",
+      "number": 14,
+      "height": 180,
+      "weight": 72,
+      "nationality": "Россия"
+    },
+    {
+      "first_name": "Роман",
+      "last_name": "Яловенко",
+      "birth_date": "1997-02-08",
+      "position": "Нападающий",
+      "number": 29,
+      "height": 182,
+      "weight": 77,
+      "nationality": "Украина"
+    },
+    {
+      "first_name": "Олексий",
+      "last_name": "Зинкевич",
+      "birth_date": "1997-05-12",
+      "position": "Нападающий",
+      "number": 24,
+      "height": 185,
+      "weight": 71,
+      "nationality": "Украина"
+    },
+    {
+      "first_name": "Марсел",
+      "last_name": "Убайдиллаев",
+      "birth_date": "2008-08-09",
+      "position": "Вратарь",
+      "number": 31,
+      "height": 175,
+      "weight": 70,
+      "nationality": "Кыргызстан"
+    },
+    {
+      "first_name": "Мухаммадали",
+      "last_name": "Турсунов",
+      "birth_date": "2000-12-05",
+      "position": "Защитник",
+      "number": 4,
+      "height": 189,
+      "weight": 78,
+      "nationality": "Узбекистан"
+    },
+    {
+      "first_name": "Мухаммадали",
+      "last_name": "Заиров",
+      "birth_date": "2003-05-02",
+      "position": "Защитник",
+      "number": 39,
+      "height": 175,
+      "weight": 67,
+      "nationality": "Кыргызстан"
+    },
+    {
+      "first_name": "Бекзат",
+      "last_name": "Урматов",
+      "birth_date": "2008-12-15",
+      "position": "Защитник",
+      "number": 32,
+      "height": 185,
+      "weight": 65,
+      "nationality": "Кыргызстан"
+    },
+    {
+      "first_name": "Нурдолеот",
+      "last_name": "Мажиев",
+      "birth_date": "2007-12-12",
+      "position": "Защитник",
+      "number": 50,
+      "height": 170,
+      "weight": 61,
+      "nationality": "Кыргызстан"
+    },
+    {
+      "first_name": "Абдулазиз",
+      "last_name": "Ганиханов",
+      "birth_date": "2007-12-26",
+      "position": "Защитник",
+      "number": 44,
+      "height": 180,
+      "weight": 70,
+      "nationality": "Кыргызстан"
+    },
+    {
+      "first_name": "Тимур",
+      "last_name": "Рахматиллаев",
+      "birth_date": "2007-12-26",
+      "position": "Защитник",
+      "number": 44,
+      "height": 184,
+      "weight": 70,
+      "nationality": "Кыргызстан"
+    },
+    
+        {
+          "first_name": "Акрамжон",
+          "last_name": "Умаров",
+          "birth_date": "1994-02-07",
+          "position": "Защитник",
+          "number": 27,
+          "height": 184,
+          "weight": 78,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Келдибек",
+          "last_name": "Таланбек уулу",
+          "birth_date": "1999-09-24",
+          "position": "Защитник",
+          "number": 8,
+          "height": 180,
+          "weight": 71,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Шохжахон",
+          "last_name": "Сатихонов",
+          "birth_date": "2001-11-25",
+          "position": "Полузащитник",
+          "number": 10,
+          "height": 168,
+          "weight": 64,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Жамшид",
+          "last_name": "Кобулов",
+          "birth_date": "1997-03-23",
+          "position": "Защитник",
+          "number": 13,
+          "height": 183,
+          "weight": 74,
+          "nationality": "Узбекистан"
+        },
+        {
+          "first_name": "Эрлан",
+          "last_name": "Маширапов",
+          "birth_date": "1999-09-08",
+          "position": "Защитник",
+          "number": 17,
+          "height": 176,
+          "weight": 75,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Саврар",
+          "last_name": "Аблаев",
+          "birth_date": "2001-11-07",
+          "position": "Полузащитник",
+          "number": 7,
+          "height": 179,
+          "weight": 77,
+          "nationality": "Узбекистан"
+        },
+        {
+          "first_name": "Давлятжан",
+          "last_name": "Баратов",
+          "birth_date": "1995-01-17",
+          "position": "Полузащитник",
+          "number": 20,
+          "height": 177,
+          "weight": 67,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Султанбек",
+          "last_name": "Момунов",
+          "birth_date": "1995-08-10",
+          "position": "Полузащитник",
+          "number": 22,
+          "height": 174,
+          "weight": 64,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Чынгыз",
+          "last_name": "Субанов",
+          "birth_date": "1991-12-09",
+          "position": "Полузащитник",
+          "number": 26,
+          "height": 177,
+          "weight": 76,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Кайрат",
+          "last_name": "Изаков",
+          "birth_date": "1997-06-08",
+          "position": "Защитник",
+          "number": 11,
+          "height": 170,
+          "weight": 70,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Исмоил",
+          "last_name": "Абдурахмонов",
+          "birth_date": "2003-03-06",
+          "position": "Полузащитник",
+          "number": 19,
+          "height": 172,
+          "weight": 69,
+          "nationality": "Узбекистан"
+        },
+        {
+          "first_name": "Нуриддин",
+          "last_name": "Нуриддинов",
+          "birth_date": "2001-03-29",
+          "position": "Нападающий",
+          "number": 9,
+          "height": 172,
+          "weight": 67,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Рамин",
+          "last_name": "Ахмадов",
+          "birth_date": "2001-06-01",
+          "position": "Защитник",
+          "number": 5,
+          "height": 185,
+          "weight": 71,
+          "nationality": "Азербайджан"
+        },
+        {
+          "first_name": "Хабибулло",
+          "last_name": "Закиров",
+          "birth_date": "2002-10-04",
+          "position": "Защитник",
+          "number": 15,
+          "height": 175,
+          "weight": 66,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Роман",
+          "last_name": "Жаныбек уулу",
+          "birth_date": "2004-01-04",
+          "position": "Вратарь",
+          "number": 30,
+          "height": 185,
+          "weight": 80,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Адил",
+          "last_name": "Рустамбек уулу",
+          "birth_date": "2003-02-18",
+          "position": "Нападающий",
+          "number": 23,
+          "height": 180,
+          "weight": 68,
+          "nationality": "Кыргызстан"
+        },
+        {
+          "first_name": "Мирзоходи",
+          "last_name": "Маматков",
+          "birth_date": "1994-05-02",
+          "position": "Вратарь",
+          "number": 25,
+          "height": 188,
+          "weight": 86,
+          "nationality": "Узбекистан"
+        },
+        {
+          "first_name": "Илдар",
+          "last_name": "Мамактазин",
+          "birth_date": "1988-10-25",
+          "position": "Защитник",
+          "number": 21,
+          "height": 187,
+          "weight": 88,
+          "nationality": "Узбекистан"
+        },
+        {
+          "first_name": "Илдар",
+          "last_name": "Алекперов",
+          "birth_date": "2001-04-27",
+          "position": "Вратарь",
+          "number": 18,
+          "height": 173,
+          "weight": 67,
+          "nationality": "Россия"
+        },
+        {
+            "first_name": "Сулийман",
+            "last_name": "Муртазаса",
+            "birth_date": "2004-02-19",
+            "position": "Вратарь",
+            "number": 8,
+            "height": 188,
+            "weight": 76,
+            "nationality": "Россия"
+          },
+          
+            {
+                "first_name": "Элтай",
+                "last_name": "Мырзаев",
+                "birth_date": "2004-05-21",
+                "position": "Нападающий",
+                "number": 34,
+                "height": 178,
+                "weight": 70,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Айдар",
+                "last_name": "Алтынбеков",
+                "birth_date": "2008-07-04",
+                "position": "Полузащитник",
+                "number": 37,
+                "height": 178,
+                "weight": 67,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Рустам",
+                "last_name": "Момунали уулу",
+                "birth_date": "2004-07-16",
+                "position": "Нападающий",
+                "number": 47,
+                "height": 173,
+                "weight": 69,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Элмар",
+                "last_name": "Бердибеков",
+                "birth_date": "2004-06-27",
+                "position": "Защитник",
+                "number": 45,
+                "height": 178,
+                "weight": 67,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Маруфбек",
+                "last_name": "Сафаргалиев",
+                "birth_date": "2008-07-10",
+                "position": "Полузащитник",
+                "number": 43,
+                "height": 179,
+                "weight": 63,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Нуртай",
+                "last_name": "Абдраманов",
+                "birth_date": "2003-08-24",
+                "position": "Полузащитник",
+                "number": 33,
+                "height": 177,
+                "weight": 68,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Барсбек",
+                "last_name": "Манас уулу",
+                "birth_date": "2004-03-04",
+                "position": "Нападающий",
+                "number": 60,
+                "height": 180,
+                "weight": 65,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Эдилбек",
+                "last_name": "Эргешалиев",
+                "birth_date": "2006-03-23",
+                "position": "Полузащитник",
+                "number": 38,
+                "height": 180,
+                "weight": 80,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Нурумхамед",
+                "last_name": "Кутманалиев",
+                "birth_date": "2005-06-08",
+                "position": "Нападающий",
+                "number": 40,
+                "height": 178,
+                "weight": 72,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Асан",
+                "last_name": "Аскарбаев",
+                "birth_date": "2008-11-06",
+                "position": "Вратарь",
+                "number": 41,
+                "height": 194,
+                "weight": 76,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Нодирбек",
+                "last_name": "Насиридинов",
+                "birth_date": "2004-12-30",
+                "position": "Полузащитник",
+                "number": 58,
+                "height": 168,
+                "weight": 59,
+                "nationality": "Кыргызстан"
+            },
+            {
+                "first_name": "Нурислам",
+                "last_name": "Туратов",
+                "birth_date": "2008-04-17",
+                "position": "Полузащитник",
+                "number": 48,
+                "height": 172,
+                "weight": 54,
+                "nationality": "Кыргызстан"
+            }
+        
+        ]
+  
+  
