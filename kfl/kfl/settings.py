@@ -154,6 +154,7 @@ CSRF_TRUSTED_ORIGINS = [
     "https://www.back.kpfl.kg"  # если есть поддомен www
 ]
 
+DATA_UPLOAD_MAX_NUMBER_FIELDS = 5000
 
 # settings.py
 CELERY_BROKER_URL = 'redis://redis:6379/0'
